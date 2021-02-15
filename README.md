@@ -8,16 +8,16 @@
 #### javascript rendering
 Scrape content that requires javascript by routing your requests through a headless browser.
 
-* **20+ Million IP addresses**
+#### 20+ Million IP addresses
 Zenscrape utilizes an IP pool from over 20 Million IP addresses from over 200 countries. This enables you to unlock location specific content.
 
-* **Automatic IP rotation**
+#### Automatic IP rotation
 Stop worrying about retry management. We handle retries internally and only charge you for successful requests.
 
-* **High Concurrency**
+#### High Concurrency
 Zenscrape is the right partner for scraping projects of any size. We provide generous concurrency limits. If you require higher limits than our standard plans provide, simply reach out and we will find a solution.
 
-* **Premium Support**
+#### Premium Support
 We believe in fast turn-around and provide fast & efficient support - from developers for developers!
 Simply reach out to us via live-chat or our contact form.
 
