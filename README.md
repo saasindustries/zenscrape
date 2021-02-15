@@ -27,6 +27,7 @@ Simply reach out to us via live-chat or our contact form.
 
 We provide a detailed & complete [documentation](https://app.zenscrape.com/documentation).
 To provide you with the best developer experience possible, we also created a Postman collection covering all of our endpoints, including plenty of examples.
+
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/85f8b936e3e1870c3fa9)
 
 ## Customer Support
