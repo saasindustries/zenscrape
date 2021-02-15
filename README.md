@@ -5,7 +5,7 @@
 
 [zenscrape](https://zenscrape.com) is a web scraping API that returns the HTML of any website and solves problems that are involved with web scraping projects. Zenscrape provides the following features: 
 
-* **javascript rendering**
+### javascript rendering
 Scrape content that requires javascript by routing your requests through a headless browser.
 
 * **20+ Million IP addresses**
